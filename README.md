@@ -1,4 +1,4 @@
-![image](https://github.com/Goyalsidd/Soft_hand_gripper/assets/135112166/16855214-61e4-4882-a047-e181b36d15a6)# Soft Robot Gripper for Patients with Diabetic Neuropathy
+# Soft Robot Gripper for Patients with Diabetic Neuropathy
 A gripper that works on air pressure and controlled manually to help the patients with diabetic neuropathy grab the objects.
 It has 4 degrees of freedom:
     a) Rotational (Arm – z axis)
